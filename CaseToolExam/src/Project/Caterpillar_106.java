@@ -8,5 +8,9 @@ public class Caterpillar_106 {
 		 this.moves=moves;
 		 this.cabbages=cabbages;
 	 }
+	 int get_move() 
+	 {
+		 return moves;
+	 }
 
 }
