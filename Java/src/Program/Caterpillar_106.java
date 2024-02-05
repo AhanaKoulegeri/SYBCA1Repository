@@ -1,12 +1,12 @@
 package Program;
 
 public class Caterpillar_106 {
-	int moves, cabbages;
+	int moves, cabbagesss;
 	 
 	 Caterpillar_106(int moves, int cabbages)
 	 {
 		 this.moves=moves;
-		 this.cabbages=cabbages;
+		 this.cabbagesss=cabbagesss;
 	 }
 
 
