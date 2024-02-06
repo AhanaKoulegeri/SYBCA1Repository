@@ -7,5 +7,8 @@ public class Add {
 		this.num1=num1;
 		this.num2=num2;
 	}
+	int Add() {
+		return num1;
+	}
 
 }
